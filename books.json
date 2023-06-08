@@ -1,0 +1,39 @@
+[
+    {
+      "title": "I'm learning how to code",
+      "author": "Mzwakhe Louw",
+      "year": 2023,
+      "genre": "Coding is fun"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian fiction"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Tragedy"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "genre": "Romantic novel"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "year": 1967,
+      "genre": "Magical realism"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "genre": "Coming-of-age novel"
+    }
+  ]
+  
